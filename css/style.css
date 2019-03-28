@@ -1,14 +1,16 @@
-      .container {
-         margin-top: 80px;
-         margin-left: auto;
-         margin-right: auto;
-         padding-bottom: 120px;
-         background-color: #fff38b;
-      }
-      #img {
-         margin-top: 0.3em;
-         text-align: center;
-      }
-      .text-adjust {
-         margin-left: 7%;
-      }
+.container {
+   margin-top: 80px;
+   margin-left: auto;
+   margin-right: auto;
+   padding-bottom: 120px;
+   background-color: #fff38b;
+}
+
+#img {
+   margin-top: 0.3em;
+   text-align: center;
+}
+
+.text-adjust {
+   margin-left: 7%;
+}
