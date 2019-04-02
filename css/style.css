@@ -1,8 +1,19 @@
+@media (min-width: 401px) {
+   .container {
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+   }
+}
+@media (max-width: 400px) {
+   .container {
+      margin: 0 20px;
+   }
+}
+
 .container {
-   margin-top: 80px;
-   margin-left: auto;
-   margin-right: auto;
    padding-bottom: 120px;
+   margin-top: 80px;
    background-color: #fff38b;
 }
 
